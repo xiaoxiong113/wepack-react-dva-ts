@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*":["./src/*"]
+    },
+    "declaration": true,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "target": "ESNext",
+    "jsx": "react",
+    "esModuleInterop": true
+  }
+}
